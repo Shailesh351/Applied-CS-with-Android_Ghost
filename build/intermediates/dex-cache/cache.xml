@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="C:\Users\DELL\Downloads\Computer_Science_with_Android_offline\ghost_starter\ghost_starter\app\build\intermediates\exploded-aar\com.android.support\support-v13\23.2.0\jars\libs\internal_impl-23.2.0.jar"
+        jumboMode="true"
+        revision="22.0.1"
+        sha1="58d0010cb4373696cfdc5894c4b23649af58ed18">
+        <dex dex="C:\Users\DELL\Downloads\Computer_Science_with_Android_offline\ghost_starter\ghost_starter\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-23.2.0_171d1dc800e44aae639ede517ce7b2873e22fef5\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\DELL\Downloads\Computer_Science_with_Android_offline\ghost_starter\ghost_starter\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\23.2.0\jars\classes.jar"
+        jumboMode="true"
+        revision="22.0.1"
+        sha1="292a9fa091757208efa65e77eef63088247e51f3">
+        <dex dex="C:\Users\DELL\Downloads\Computer_Science_with_Android_offline\ghost_starter\ghost_starter\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-vector-drawable-23.2.0_49a8a719bfd769a303cd078e783380a6b5c4bfbc\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\DELL\Downloads\Computer_Science_with_Android_offline\ghost_starter\ghost_starter\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        revision="22.0.1"
+        sha1="db54332a9fcca44a01cb4d8b20aaa67793e6409a">
+        <dex dex="C:\Users\DELL\Downloads\Computer_Science_with_Android_offline\ghost_starter\ghost_starter\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_067e39a459861055fb2a747f331b06bd53d23fe9\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\DELL\Downloads\Computer_Science_with_Android_offline\ghost_starter\ghost_starter\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.2.0\jars\classes.jar"
+        jumboMode="true"
+        revision="22.0.1"
+        sha1="e5f32fa48a3eb2de0c987025c11b6e3864b634d9">
+        <dex dex="C:\Users\DELL\Downloads\Computer_Science_with_Android_offline\ghost_starter\ghost_starter\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-v4-23.2.0_f8eab6aa49a9527271a47234bcfb1a7e4565b5b6\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\DELL\Downloads\Computer_Science_with_Android_offline\ghost_starter\ghost_starter\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\23.2.0\jars\classes.jar"
+        jumboMode="true"
+        revision="22.0.1"
+        sha1="6e3578f92f7462d1a935a1d36173e3bdd1234976">
+        <dex dex="C:\Users\DELL\Downloads\Computer_Science_with_Android_offline\ghost_starter\ghost_starter\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-appcompat-v7-23.2.0_309f299ec10be14091df9e68ab7865068e3e7016\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\DELL\Downloads\Computer_Science_with_Android_offline\ghost_starter\ghost_starter\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.2.0\jars\libs\internal_impl-23.2.0.jar"
+        jumboMode="true"
+        revision="22.0.1"
+        sha1="6e239441500605809818997dd63b62a947195f8c">
+        <dex dex="C:\Users\DELL\Downloads\Computer_Science_with_Android_offline\ghost_starter\ghost_starter\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-23.2.0_f936aa67a80a8855929fc96d6822fb98d07cd600\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\DELL\Downloads\Computer_Science_with_Android_offline\ghost_starter\ghost_starter\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\23.2.0\jars\classes.jar"
+        jumboMode="true"
+        revision="22.0.1"
+        sha1="8c108c22c99e794eff255bb34d2a461200c4cbb0">
+        <dex dex="C:\Users\DELL\Downloads\Computer_Science_with_Android_offline\ghost_starter\ghost_starter\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-animated-vector-drawable-23.2.0_ce8e5528612dfb2d66b18410281a2cfd98f0b4ed\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\DELL\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\23.2.0\support-annotations-23.2.0.jar"
+        jumboMode="true"
+        revision="22.0.1"
+        sha1="c5bf571bb10462bd90e5419ade67793f71acbc87">
+        <dex dex="C:\Users\DELL\Downloads\Computer_Science_with_Android_offline\ghost_starter\ghost_starter\app\build\intermediates\transforms\dex\debug\folders\1000\10\support-annotations-23.2.0_6f9afa323d90191eeae190abfe96d60722aab5e0\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\DELL\Downloads\Computer_Science_with_Android_offline\ghost_starter\ghost_starter\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        revision="22.0.1"
+        sha1="03a9140f3f0ad222d84ad678fba27e7208898adc">
+        <dex dex="C:\Users\DELL\Downloads\Computer_Science_with_Android_offline\ghost_starter\ghost_starter\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_61b8d1a45daaa3eb81db9ab41d302f9ebf7b0b1d\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\DELL\Downloads\Computer_Science_with_Android_offline\ghost_starter\ghost_starter\app\build\intermediates\exploded-aar\com.android.support\support-v13\23.2.0\jars\classes.jar"
+        jumboMode="true"
+        revision="22.0.1"
+        sha1="f3a3189a228a65d03b3ea92a1b58a2b44bc7366e">
+        <dex dex="C:\Users\DELL\Downloads\Computer_Science_with_Android_offline\ghost_starter\ghost_starter\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-v13-23.2.0_ed76cb2fe47d1bfb400cb2352536bc73c07c676e\classes.dex" />
+    </item>
+
+</items>
