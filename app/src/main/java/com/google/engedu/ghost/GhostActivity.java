@@ -174,7 +174,7 @@ public class GhostActivity extends ActionBarActivity {
         TextView text = (TextView) findViewById(R.id.ghostText);
 
         String word = simpleDictionary.getAnyWordStartingWith("");
-        text.setText(word.substring(0,2));
+        text.setText(word.substring(0,3));
 
         TextView label = (TextView) findViewById(R.id.gameStatus);
         isWon = false;
